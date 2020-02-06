@@ -8,3 +8,5 @@ Here is a list of things needed to log onto a website
 - The password
 
 [this is descriptive link text](day1.pdf)
+
+It's so helpful to truly get **HANDS ON** experience during a seminar.
