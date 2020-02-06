@@ -7,3 +7,4 @@ Here is a list of things needed to log onto a website
 - username
 - The password
 
+[this is descriptive link text](day1.pdf)
