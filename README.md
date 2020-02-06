@@ -10,3 +10,5 @@ Here is a list of things needed to log onto a website
 [this is descriptive link text](day1.pdf)
 
 It's so helpful to truly get **HANDS ON** experience during a seminar.
+
+I know some people who, due to a lack of records about web accounts, cannot participate during seminars.
