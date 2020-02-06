@@ -8,3 +8,6 @@ Here is a list of things needed to log onto a website
 - The password
 
 [this is descriptive link text](day1.pdf)
+
+
+I know some people who, due to a lack of records about web accounts, cannot participate during seminars.
